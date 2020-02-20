@@ -4,6 +4,6 @@ public class DemoScreen
 {
 	public static void main(String args[])
 	{
-		System.out.println("Demo Screen 1");
+		System.out.println("Demo Screen");
 	}
 }
